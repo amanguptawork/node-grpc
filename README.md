@@ -11,7 +11,7 @@ A barebones Node.js app using [Express 4](http://expressjs.com/).
 Make sure you have [Node.js](http://nodejs.org/) and the [grpc](https://grpc.io/) installed.
 
 ```sh
-git clone * # or clone your own fork
+git clone https://github.com/amanguptawork/node-grpc.git # or clone your own fork
 cd node-grpc
 npm install
 node server.js
